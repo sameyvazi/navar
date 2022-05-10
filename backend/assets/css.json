@@ -1,0 +1,12 @@
+[
+    "backend/assets/assets/waitme/waitMe.css",
+    "vendor/bower/bootstrap-rtl/dist/css/bootstrap-rtl.css",
+    "backend/assets/assets/metronic/admin/pages/css/login-rtl.css",
+    "backend/assets/assets/metronic/global/css/components-md-rtl.css",
+    "backend/assets/assets/metronic/global/css/plugins-md-rtl.css",
+    "backend/assets/assets/metronic/admin/layout3/css/layout-rtl.css",
+    "backend/assets/assets/metronic/admin/layout3/css/themes/default-rtl.css",
+    "backend/assets/assets/css/custom.css",
+    "backend/assets/assets/css/font.css",
+    "vendor/mdmsoft/yii2-admin/assets/animate.css"
+]

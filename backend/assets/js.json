@@ -1,0 +1,23 @@
+[
+    "vendor/bower/jquery/dist/jquery.js",
+    "vendor/yiisoft/yii2/assets/yii.js",
+    "vendor/yiisoft/yii2/assets/yii.validation.js",
+    "vendor/yiisoft/yii2/assets/yii.gridView.js",
+    "vendor/yiisoft/yii2/assets/yii.activeForm.js",
+    "vendor/bower/yii2-pjax/jquery.pjax.js",
+    "vendor/bower/bootstrap/dist/js/bootstrap.js",
+    "vendor/bower/jquery-mousewheel/jquery.mousewheel.min.js",
+    "vendor/bower/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js",
+    "vendor/bower/jquery.scrollTo/jquery.scrollTo.min.js.js",
+    "vendor/bower/slimscroll/jquery.slimscroll.min.js",
+    "vendor/bower/smooth-scroll/smooth-scroll.js",
+    "backend/assets/assets/blockui/jquery.blockUI.js",
+    "backend/assets/assets/waitme/waitMe.js",
+    "backend/assets/assets/js/jquery.transit.min.js",
+    "backend/assets/assets/js/modernizr-2.6.2-respond-1.1.0.min.js",
+    "vendor/bower/jquery.inputmask/dist/jquery.inputmask.bundle.js",
+    "backend/assets/assets/js/main.js",
+    "backend/assets/assets/metronic/global/scripts/app.js",
+    "backend/assets/assets/metronic/admin/layout3/scripts/layout.js"
+    
+]

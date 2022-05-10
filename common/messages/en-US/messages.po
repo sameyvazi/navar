@@ -1,0 +1,948 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "app"
+msgid "Activation code"
+msgstr ""
+
+msgctxt "app"
+msgid "Activation code is not correct!"
+msgstr ""
+
+msgctxt "app"
+msgid "Active"
+msgstr ""
+
+msgctxt "app"
+msgid "Activity"
+msgstr ""
+
+msgctxt "app"
+msgid "Add Artist"
+msgstr ""
+
+msgctxt "app"
+msgid "Add Mood"
+msgstr ""
+
+msgctxt "app"
+msgid "Add Music"
+msgstr ""
+
+msgctxt "app"
+msgid "Add Music to playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Add Special"
+msgstr ""
+
+msgctxt "app"
+msgid "Add Tag"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new admin"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new artist"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new mood"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new music"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new special"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new tag"
+msgstr ""
+
+msgctxt "app"
+msgid "Add playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Admin List"
+msgstr ""
+
+msgctxt "app"
+msgid "Admin information updated."
+msgstr ""
+
+msgctxt "app"
+msgid "Admin successfuly created."
+msgstr ""
+
+msgctxt "app"
+msgid "Administrator"
+msgstr ""
+
+msgctxt "app"
+msgid "Administrator Roles and Permission"
+msgstr ""
+
+msgctxt "app"
+msgid "Admins Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Album"
+msgstr ""
+
+msgctxt "app"
+msgid "All activity"
+msgstr ""
+
+msgctxt "app"
+msgid "Are you sure you want to change selected item status?"
+msgstr ""
+
+msgctxt "app"
+msgid "Are you sure you want to delete selected items?"
+msgstr ""
+
+msgctxt "app"
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+msgctxt "app"
+msgid "Artist ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Artist Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Artist list"
+msgstr ""
+
+msgctxt "app"
+msgid "Artist successfully updated."
+msgstr ""
+
+msgctxt "app"
+msgid "Artist successfuly created."
+msgstr ""
+
+msgctxt "app"
+msgid "Artist successfuly updated."
+msgstr ""
+
+msgctxt "app"
+msgid "Artists"
+msgstr ""
+
+msgctxt "app"
+msgid "Artists Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Author"
+msgstr ""
+
+msgctxt "app"
+msgid "Author Email"
+msgstr ""
+
+msgctxt "app"
+msgid "Author Ip"
+msgstr ""
+
+msgctxt "app"
+msgid "Author Name"
+msgstr ""
+
+msgctxt "app"
+msgid "Avatar"
+msgstr ""
+
+msgctxt "app"
+msgid "Birthday"
+msgstr ""
+
+msgctxt "app"
+msgid "Category"
+msgstr ""
+
+msgctxt "app"
+msgid "Change"
+msgstr ""
+
+msgctxt "app"
+msgid "Change password"
+msgstr ""
+
+msgctxt "app"
+msgid "Clear Log"
+msgstr ""
+
+msgctxt "app"
+msgid "Clear system cache"
+msgstr ""
+
+msgctxt "app"
+msgid "Clear thumbnails images"
+msgstr ""
+
+msgctxt "app"
+msgid "Clear website assets"
+msgstr ""
+
+msgctxt "app"
+msgid "Comment list"
+msgstr ""
+
+msgctxt "app"
+msgid "Comments"
+msgstr ""
+
+msgctxt "app"
+msgid "Comments Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Composer"
+msgstr ""
+
+msgctxt "app"
+msgid "Configuration"
+msgstr ""
+
+msgctxt "app"
+msgid "Confirm Password"
+msgstr ""
+
+msgctxt "app"
+msgid "Content"
+msgstr ""
+
+msgctxt "app"
+msgid "Create"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new admin"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new artist"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new mood"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new music"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new playlist-music"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new special"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new tag"
+msgstr ""
+
+msgctxt "app"
+msgid "Created At"
+msgstr ""
+
+msgctxt "app"
+msgid "Created at"
+msgstr ""
+
+msgctxt "app"
+msgid "Data"
+msgstr ""
+
+msgctxt "app"
+msgid "Date is not valid and must be with this format: 1367-06-01"
+msgstr ""
+
+msgctxt "app"
+msgid "Delete"
+msgstr ""
+
+msgctxt "app"
+msgid "Devices"
+msgstr ""
+
+msgctxt "app"
+msgid "Director"
+msgstr ""
+
+msgctxt "app"
+msgid "Directory"
+msgstr ""
+
+msgctxt "app"
+msgid "Disable"
+msgstr ""
+
+msgctxt "app"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "app"
+msgid "Dl Link"
+msgstr ""
+
+msgctxt "app"
+msgid "Email"
+msgstr ""
+
+msgctxt "app"
+msgid "Enable"
+msgstr ""
+
+msgctxt "app"
+msgid "Entity"
+msgstr ""
+
+msgctxt "app"
+msgid "Error in updating admin information!"
+msgstr ""
+
+msgctxt "app"
+msgid "Error sent to website administrator for check the detail."
+msgstr ""
+
+msgctxt "app"
+msgid "For activate use this code: {code}"
+msgstr ""
+
+msgctxt "app"
+msgid "Foreign"
+msgstr ""
+
+msgctxt "app"
+msgid "Game Center"
+msgstr ""
+
+msgctxt "app"
+msgid "Gender"
+msgstr ""
+
+msgctxt "app"
+msgid "Home"
+msgstr ""
+
+msgctxt "app"
+msgid "ID"
+msgstr ""
+
+msgctxt "app"
+msgid "IP"
+msgstr ""
+
+msgctxt "app"
+msgid "Image"
+msgstr ""
+
+msgctxt "app"
+msgid "Inavar"
+msgstr ""
+
+msgctxt "app"
+msgid "Incorrect old password."
+msgstr ""
+
+msgctxt "app"
+msgid "Incorrect username or password."
+msgstr ""
+
+msgctxt "app"
+msgid "Key"
+msgstr ""
+
+msgctxt "app"
+msgid "Key Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Lastname"
+msgstr ""
+
+msgctxt "app"
+msgid "Level"
+msgstr ""
+
+msgctxt "app"
+msgid "Like"
+msgstr ""
+
+msgctxt "app"
+msgid "Like App"
+msgstr ""
+
+msgctxt "app"
+msgid "Like Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Like list"
+msgstr ""
+
+msgctxt "app"
+msgid "Likes Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Limit"
+msgstr ""
+
+msgctxt "app"
+msgid "Log Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Log Time"
+msgstr ""
+
+msgctxt "app"
+msgid "Login"
+msgstr ""
+
+msgctxt "app"
+msgid "Logout"
+msgstr ""
+
+msgctxt "app"
+msgid "Logs"
+msgstr ""
+
+msgctxt "app"
+msgid "Lyric"
+msgstr ""
+
+msgctxt "app"
+msgid "Maintenance"
+msgstr ""
+
+msgctxt "app"
+msgid "Man"
+msgstr ""
+
+msgctxt "app"
+msgid "Message"
+msgstr ""
+
+msgctxt "app"
+msgid "Mobile"
+msgstr ""
+
+msgctxt "app"
+msgid "Mobile is not valid and must be with this format: 0936..."
+msgstr ""
+
+msgctxt "app"
+msgid "Montage"
+msgstr ""
+
+msgctxt "app"
+msgid "Mood ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Mood Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Mood list"
+msgstr ""
+
+msgctxt "app"
+msgid "Mood successfully created."
+msgstr ""
+
+msgctxt "app"
+msgid "Mood successfully updated."
+msgstr ""
+
+msgctxt "app"
+msgid "Moods Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "More attempt to login!"
+msgstr ""
+
+msgctxt "app"
+msgid "More attempt to register!"
+msgstr ""
+
+msgctxt "app"
+msgid "Mp3"
+msgstr ""
+
+msgctxt "app"
+msgid "Music ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Music Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Music No"
+msgstr ""
+
+msgctxt "app"
+msgid "Music list"
+msgstr ""
+
+msgctxt "app"
+msgid "Music successfully created."
+msgstr ""
+
+msgctxt "app"
+msgid "Music successfully updated."
+msgstr ""
+
+msgctxt "app"
+msgid "Musicians"
+msgstr ""
+
+msgctxt "app"
+msgid "Musicplus"
+msgstr ""
+
+msgctxt "app"
+msgid "Musics"
+msgstr ""
+
+msgctxt "app"
+msgid "Musics Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Name"
+msgstr ""
+
+msgctxt "app"
+msgid "Name Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Navar Version {version}"
+msgstr ""
+
+msgctxt "app"
+msgid "Navar app"
+msgstr ""
+
+msgctxt "app"
+msgid "No"
+msgstr ""
+
+msgctxt "app"
+msgid "No matching records found"
+msgstr ""
+
+msgctxt "app"
+msgid "Note"
+msgstr ""
+
+msgctxt "app"
+msgid "Note App"
+msgstr ""
+
+msgctxt "app"
+msgid "Note Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Old Password"
+msgstr ""
+
+msgctxt "app"
+msgid "Other"
+msgstr ""
+
+msgctxt "app"
+msgid "Parent Comment ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Password"
+msgstr ""
+
+msgctxt "app"
+msgid "Persian"
+msgstr ""
+
+msgctxt "app"
+msgid "Play"
+msgstr ""
+
+msgctxt "app"
+msgid "Play App"
+msgstr ""
+
+msgctxt "app"
+msgid "Play Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist list"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist music list"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist of Music successfully created."
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist successfully updated."
+msgstr ""
+
+msgctxt "app"
+msgid "PlaylistMusic Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "PlaylistMusic successfully updated."
+msgstr ""
+
+msgctxt "app"
+msgid "Playlists"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlists Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Position"
+msgstr ""
+
+msgctxt "app"
+msgid "Post ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Post Type"
+msgstr ""
+
+msgctxt "app"
+msgid "Prefix"
+msgstr ""
+
+msgctxt "app"
+msgid "Public"
+msgstr ""
+
+msgctxt "app"
+msgid "Regulator"
+msgstr ""
+
+msgctxt "app"
+msgid "Remember me"
+msgstr ""
+
+msgctxt "app"
+msgid "Security code"
+msgstr ""
+
+msgctxt "app"
+msgid "Send the client type in the header!"
+msgstr ""
+
+msgctxt "app"
+msgid "Session ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Singer"
+msgstr ""
+
+msgctxt "app"
+msgid "Special"
+msgstr ""
+
+msgctxt "app"
+msgid "Special Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Special list"
+msgstr ""
+
+msgctxt "app"
+msgid "Special successfully created."
+msgstr ""
+
+msgctxt "app"
+msgid "Specials"
+msgstr ""
+
+msgctxt "app"
+msgid "Specials Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Status"
+msgstr ""
+
+msgctxt "app"
+msgid "Status App"
+msgstr ""
+
+msgctxt "app"
+msgid "Status Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Successfully deleted {count} item!"
+msgstr ""
+
+msgctxt "app"
+msgid "Successfully deleted!"
+msgstr ""
+
+msgctxt "app"
+msgid "Successfully status changed!"
+msgstr ""
+
+msgctxt "app"
+msgid "Successfully {count} item status changed!"
+msgstr ""
+
+msgctxt "app"
+msgid "Tag ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Tag Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Tag list"
+msgstr ""
+
+msgctxt "app"
+msgid "Tag successfuly created."
+msgstr ""
+
+msgctxt "app"
+msgid "Tags Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Target"
+msgstr ""
+
+msgctxt "app"
+msgid "The above error occurred while the Web server was processing your request."
+msgstr ""
+
+msgctxt "app"
+msgid "The requested page does not exist."
+msgstr ""
+
+msgctxt "app"
+msgid "This artist before liked!"
+msgstr ""
+
+msgctxt "app"
+msgid "This post before liked!"
+msgstr ""
+
+msgctxt "app"
+msgid "Time"
+msgstr ""
+
+msgctxt "app"
+msgid "Type"
+msgstr ""
+
+msgctxt "app"
+msgid "Update"
+msgstr ""
+
+msgctxt "app"
+msgid "Update artist"
+msgstr ""
+
+msgctxt "app"
+msgid "Update information"
+msgstr ""
+
+msgctxt "app"
+msgid "Update information {username}"
+msgstr ""
+
+msgctxt "app"
+msgid "Update mood"
+msgstr ""
+
+msgctxt "app"
+msgid "Update music"
+msgstr ""
+
+msgctxt "app"
+msgid "Update playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Update special"
+msgstr ""
+
+msgctxt "app"
+msgid "Update tag"
+msgstr ""
+
+msgctxt "app"
+msgid "Update user"
+msgstr ""
+
+msgctxt "app"
+msgid "Updated At"
+msgstr ""
+
+msgctxt "app"
+msgid "Upload new version"
+msgstr ""
+
+msgctxt "app"
+msgid "User"
+msgstr ""
+
+msgctxt "app"
+msgid "User Activity"
+msgstr ""
+
+msgctxt "app"
+msgid "User Activity Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "User ID"
+msgstr ""
+
+msgctxt "app"
+msgid "User List"
+msgstr ""
+
+msgctxt "app"
+msgid "User Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "User successfuly updated."
+msgstr ""
+
+msgctxt "app"
+msgid "User with this mobile number is not exist"
+msgstr ""
+
+msgctxt "app"
+msgid "Username"
+msgstr ""
+
+msgctxt "app"
+msgid "Users"
+msgstr ""
+
+msgctxt "app"
+msgid "Users Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Video"
+msgstr ""
+
+msgctxt "app"
+msgid "View"
+msgstr ""
+
+msgctxt "app"
+msgid "View App"
+msgstr ""
+
+msgctxt "app"
+msgid "View Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Welcome to DiGiFC."
+msgstr ""
+
+msgctxt "app"
+msgid "Woman"
+msgstr ""
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this admin!"
+msgstr ""
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this artist!"
+msgstr ""
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this comment!"
+msgstr ""
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this mood!"
+msgstr ""
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this music!"
+msgstr ""
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this playlist!"
+msgstr ""
+
+msgctxt "app"
+msgid "Your password successfuly changed."
+msgstr ""
+

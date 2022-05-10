@@ -1,0 +1,78 @@
+.breadcrumb{
+    margin-bottom: 0px;
+}
+/* add sorting icons to gridview sort links */
+a.asc:after, a.desc:after {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    padding-left: 5px;
+}
+
+a.asc:after {
+    content: /*"\e113"*/ "\e151";
+}
+
+a.desc:after {
+    content: /*"\e114"*/ "\e152";
+}
+
+.sort-numerical a.asc:after {
+    content: "\e153";
+}
+
+.sort-numerical a.desc:after {
+    content: "\e154";
+}
+
+.sort-ordinal a.asc:after {
+    content: "\e155";
+}
+
+.sort-ordinal a.desc:after {
+    content: "\e156";
+}
+
+.grid-view td {
+    white-space: nowrap;
+}
+
+.grid-view .filters input,
+.grid-view .filters select {
+    min-width: 50px;
+}
+
+.page-header{
+    height: auto;
+}
+g.highcharts-input-group {
+    direction: ltr;
+}
+g.highcharts-range-selector-buttons{
+    direction: ltr;
+}
+.highcharts-axis-labels.highcharts-yaxis-labels
+{
+    direction: ltr;
+}
+.highcharts-tooltip
+{
+    direction: rtl !important;
+}
+.tab-content > .tab-pane:not(.active),
+.pill-content > .pill-pane:not(.active) {
+    display: block;
+    height: 0;
+    overflow-y: hidden;
+} 
+.checkbox{
+    margin-right:20px;
+}
+.page-header-menu {display: block !important}
+.dropdown-menu, h1, h2, h3, h4, h5, h6 {
+    font-family: Vazir !important;
+}

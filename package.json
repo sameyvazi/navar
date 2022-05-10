@@ -1,0 +1,31 @@
+{
+  "name": "Navar",
+  "version": "0.0.1",
+  "author": {
+    "name": "Saman Eyvazi",
+    "email": "saman3yvazi@gmail.com"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.2.1",
+    "grunt": "^1.0.1",
+    "grunt-concat-sourcemap": "^0.4.3",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.2",
+    "grunt-postcss": "^0.8.0",
+    "grunt-svgmin": "^3.1.0",
+    "grunt-usemin": "^3.1.1"
+  }
+}

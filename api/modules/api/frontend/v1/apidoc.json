@@ -1,0 +1,25 @@
+{
+    "name": "Navar",
+    "version": "1.0.0",
+    "description": "Navar API Documentation",
+    "title": "API documentation",
+    "url": "/f1",
+    "header": {
+        "title": "Introduction",
+        "filename": "header.md"
+    },
+    "order": [
+        "Introduction",
+        
+        "Auth",
+        "User",
+        "Artist",
+        "Music",
+        "Comment",
+        "Mood",
+        "Playlist",
+        "Special",
+        "Search"
+        
+    ]
+}

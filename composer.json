@@ -1,0 +1,51 @@
+{
+    "name": "saman/Navar",
+    "description": "Navar-Music",
+    "keywords": ["Navar", "Music"],
+    "homepage": "http://www.iNavar.ir/",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*",
+        "yiisoft/yii2-swiftmailer": "*",
+        "yiisoft/yii2-imagine": "^2.1",
+        "yiisoft/yii2-redis": "*",
+        "mdmsoft/yii2-admin": "*",
+        "damirka/yii2-jwt": "*",
+        "kartik-v/yii2-widgets": "*",
+        "kartik-v/yii2-krajee-base": "*",
+        "sheershoff/yii2-module-urlrules": "~1.0.0",
+        "fabpot/goutte": "dev-master",
+        "bower-asset/fancybox": "@stable",
+        "bower-asset/jquery-mousewheel": "@stable",
+        "bower-asset/components-font-awesome": "@stable",
+        "bower-asset/bootstrap-hover-dropdown": "@stable",
+        "bower-asset/slimScroll": "@stable",
+        "bower-asset/smooth-scroll": "@stable",
+        "bower-asset/jquery.scrollTo": "@stable",
+        "bower-asset/bootstrap-sass-official": "@stable",
+        "bower-asset/font-awesome": "@stable",
+        "bower-asset/bootstrap-rtl": "@stable",
+        "yiisoft/yii2-jui": "^2.0",
+        "nass600/get-id3": "^1.0",
+        "yii2mod/yii2-ftp": "*",
+        "sngrl/php-firebase-cloud-messaging": "dev-master"
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug": "*",
+        "yiisoft/yii2-gii": "*"
+    },
+    "config": {
+        "process-timeout": 1800
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        },
+        "asset-pattern-skip-version": "(-build|-patch|-RC|-alpha|-beta)"
+    }
+}

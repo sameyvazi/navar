@@ -1,0 +1,948 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "app"
+msgid "Add Artist"
+msgstr ""
+
+msgctxt "app"
+msgid "Add Mood"
+msgstr ""
+
+msgctxt "app"
+msgid "Add Music"
+msgstr ""
+
+msgctxt "app"
+msgid "Add Music to playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Add Special"
+msgstr ""
+
+msgctxt "app"
+msgid "Add Tag"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new artist"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new mood"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new music"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new special"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new tag"
+msgstr ""
+
+msgctxt "app"
+msgid "Add playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Album"
+msgstr ""
+
+msgctxt "app"
+msgid "All activity"
+msgstr ""
+
+msgctxt "app"
+msgid "Artist ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Artist Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Artist list"
+msgstr ""
+
+msgctxt "app"
+msgid "Artist successfully updated."
+msgstr ""
+
+msgctxt "app"
+msgid "Artist successfuly created."
+msgstr ""
+
+msgctxt "app"
+msgid "Artist successfuly updated."
+msgstr ""
+
+msgctxt "app"
+msgid "Artists"
+msgstr ""
+
+msgctxt "app"
+msgid "Artists Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Author Email"
+msgstr ""
+
+msgctxt "app"
+msgid "Author Ip"
+msgstr ""
+
+msgctxt "app"
+msgid "Author Name"
+msgstr ""
+
+msgctxt "app"
+msgid "Comment list"
+msgstr ""
+
+msgctxt "app"
+msgid "Comments"
+msgstr ""
+
+msgctxt "app"
+msgid "Comments Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Composer"
+msgstr ""
+
+msgctxt "app"
+msgid "Content"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new artist"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new mood"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new music"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new playlist-music"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new special"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new tag"
+msgstr ""
+
+msgctxt "app"
+msgid "Director"
+msgstr ""
+
+msgctxt "app"
+msgid "Directory"
+msgstr ""
+
+msgctxt "app"
+msgid "Dl Link"
+msgstr ""
+
+msgctxt "app"
+msgid "Email"
+msgstr ""
+
+msgctxt "app"
+msgid "Entity"
+msgstr ""
+
+msgctxt "app"
+msgid "Foreign"
+msgstr ""
+
+msgctxt "app"
+msgid "Inavar"
+msgstr ""
+
+msgctxt "app"
+msgid "Key"
+msgstr ""
+
+msgctxt "app"
+msgid "Key Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Like"
+msgstr ""
+
+msgctxt "app"
+msgid "Like App"
+msgstr ""
+
+msgctxt "app"
+msgid "Like Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Like list"
+msgstr ""
+
+msgctxt "app"
+msgid "Likes Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Limit"
+msgstr ""
+
+msgctxt "app"
+msgid "Lyric"
+msgstr ""
+
+msgctxt "app"
+msgid "Montage"
+msgstr ""
+
+msgctxt "app"
+msgid "Mood ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Mood Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Mood list"
+msgstr ""
+
+msgctxt "app"
+msgid "Mood successfully created."
+msgstr ""
+
+msgctxt "app"
+msgid "Mood successfully updated."
+msgstr ""
+
+msgctxt "app"
+msgid "Moods Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Mp3"
+msgstr ""
+
+msgctxt "app"
+msgid "Music ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Music Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Music No"
+msgstr ""
+
+msgctxt "app"
+msgid "Music list"
+msgstr ""
+
+msgctxt "app"
+msgid "Music successfully created."
+msgstr ""
+
+msgctxt "app"
+msgid "Music successfully updated."
+msgstr ""
+
+msgctxt "app"
+msgid "Musicians"
+msgstr ""
+
+msgctxt "app"
+msgid "Musicplus"
+msgstr ""
+
+msgctxt "app"
+msgid "Musics"
+msgstr ""
+
+msgctxt "app"
+msgid "Musics Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Name Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Navar Version {version}"
+msgstr ""
+
+msgctxt "app"
+msgid "Navar app"
+msgstr ""
+
+msgctxt "app"
+msgid "No"
+msgstr ""
+
+msgctxt "app"
+msgid "Note"
+msgstr ""
+
+msgctxt "app"
+msgid "Note App"
+msgstr ""
+
+msgctxt "app"
+msgid "Note Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Other"
+msgstr ""
+
+msgctxt "app"
+msgid "Parent Comment ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Persian"
+msgstr ""
+
+msgctxt "app"
+msgid "Play"
+msgstr ""
+
+msgctxt "app"
+msgid "Play App"
+msgstr ""
+
+msgctxt "app"
+msgid "Play Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist list"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist music list"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist of Music successfully created."
+msgstr ""
+
+msgctxt "app"
+msgid "Playlist successfully updated."
+msgstr ""
+
+msgctxt "app"
+msgid "PlaylistMusic Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "PlaylistMusic successfully updated."
+msgstr ""
+
+msgctxt "app"
+msgid "Playlists"
+msgstr ""
+
+msgctxt "app"
+msgid "Playlists Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Position"
+msgstr ""
+
+msgctxt "app"
+msgid "Post ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Post Type"
+msgstr ""
+
+msgctxt "app"
+msgid "Public"
+msgstr ""
+
+msgctxt "app"
+msgid "Regulator"
+msgstr ""
+
+msgctxt "app"
+msgid "Send the client type in the header!"
+msgstr ""
+
+msgctxt "app"
+msgid "Singer"
+msgstr ""
+
+msgctxt "app"
+msgid "Special"
+msgstr ""
+
+msgctxt "app"
+msgid "Special Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Special list"
+msgstr ""
+
+msgctxt "app"
+msgid "Special successfully created."
+msgstr ""
+
+msgctxt "app"
+msgid "Specials"
+msgstr ""
+
+msgctxt "app"
+msgid "Specials Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Status App"
+msgstr ""
+
+msgctxt "app"
+msgid "Status Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Tag ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Tag Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Tag list"
+msgstr ""
+
+msgctxt "app"
+msgid "Tag successfuly created."
+msgstr ""
+
+msgctxt "app"
+msgid "Tags Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "This artist before liked!"
+msgstr ""
+
+msgctxt "app"
+msgid "This post before liked!"
+msgstr ""
+
+msgctxt "app"
+msgid "Time"
+msgstr ""
+
+msgctxt "app"
+msgid "Update artist"
+msgstr ""
+
+msgctxt "app"
+msgid "Update mood"
+msgstr ""
+
+msgctxt "app"
+msgid "Update music"
+msgstr ""
+
+msgctxt "app"
+msgid "Update playlist"
+msgstr ""
+
+msgctxt "app"
+msgid "Update special"
+msgstr ""
+
+msgctxt "app"
+msgid "Update tag"
+msgstr ""
+
+msgctxt "app"
+msgid "Updated At"
+msgstr ""
+
+msgctxt "app"
+msgid "View App"
+msgstr ""
+
+msgctxt "app"
+msgid "View Fa"
+msgstr ""
+
+msgctxt "app"
+msgid "Welcome to DiGiFC."
+msgstr ""
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this artist!"
+msgstr ""
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this comment!"
+msgstr ""
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this mood!"
+msgstr ""
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this music!"
+msgstr ""
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this playlist!"
+msgstr ""
+
+msgctxt "app"
+msgid "Activation code"
+msgstr "کد فعال سازی"
+
+msgctxt "app"
+msgid "Activation code is not correct!"
+msgstr "کد فعال سازی صحیح نمی باشد!"
+
+msgctxt "app"
+msgid "Active"
+msgstr "فعال"
+
+msgctxt "app"
+msgid "Activity"
+msgstr "فعالیت"
+
+msgctxt "app"
+msgid "Add new admin"
+msgstr "افزودن مدیر جدید"
+
+msgctxt "app"
+msgid "Admin List"
+msgstr "لیست مدیران"
+
+msgctxt "app"
+msgid "Admin information updated."
+msgstr "اطلاعات مدیر بروز رسانی شد."
+
+msgctxt "app"
+msgid "Admin successfuly created."
+msgstr "مدیر با موفقیت ایجاد شد."
+
+msgctxt "app"
+msgid "Administrator"
+msgstr "مدیریت کل"
+
+msgctxt "app"
+msgid "Administrator Roles and Permission"
+msgstr "نقش ها و دسترسی های مدیران"
+
+msgctxt "app"
+msgid "Admins Manager"
+msgstr "مدیریت مدیران"
+
+msgctxt "app"
+msgid "Are you sure you want to change selected item status?"
+msgstr "آیا مایل به تغییر وضعیت موارد انتخاب شده هستید؟"
+
+msgctxt "app"
+msgid "Are you sure you want to delete selected items?"
+msgstr "آیا مایل به حذف موارد انتخاب شده می باشید؟"
+
+msgctxt "app"
+msgid "Are you sure you want to delete this item?"
+msgstr "آیا مایل به حذف موارد انتخاب شده هستید؟"
+
+msgctxt "app"
+msgid "Author"
+msgstr "سازنده"
+
+msgctxt "app"
+msgid "Avatar"
+msgstr "نماد"
+
+msgctxt "app"
+msgid "Birthday"
+msgstr "تاریخ تولد"
+
+msgctxt "app"
+msgid "Category"
+msgstr "دسته بندی"
+
+msgctxt "app"
+msgid "Change"
+msgstr "تغییر"
+
+msgctxt "app"
+msgid "Change password"
+msgstr "تغییر رمز عبور"
+
+msgctxt "app"
+msgid "Clear Log"
+msgstr "پاک کردن خطاهای سیستم"
+
+msgctxt "app"
+msgid "Clear system cache"
+msgstr "پاک کردن حافظه ی نهان"
+
+msgctxt "app"
+msgid "Clear thumbnails images"
+msgstr "پاک کردن عکس های موقتی"
+
+msgctxt "app"
+msgid "Clear website assets"
+msgstr "پاک کردن فایل های وب"
+
+msgctxt "app"
+msgid "Configuration"
+msgstr "پیکربندی"
+
+msgctxt "app"
+msgid "Confirm Password"
+msgstr "تایید رمز عبور"
+
+msgctxt "app"
+msgid "Create"
+msgstr "ایجاد"
+
+msgctxt "app"
+msgid "Create new admin"
+msgstr "ایجاد مدیر جدید"
+
+msgctxt "app"
+msgid "Created At"
+msgstr "تاریخ ایجاد"
+
+msgctxt "app"
+msgid "Created at"
+msgstr "تاریخ ایجاد"
+
+msgctxt "app"
+msgid "Data"
+msgstr "داده"
+
+msgctxt "app"
+msgid "Date is not valid and must be with this format: 1367-06-01"
+msgstr "تاریخ صحیح نمی باشد و باید به این صورت باشد:‌ 01-06-1367"
+
+msgctxt "app"
+msgid "Delete"
+msgstr "حذف"
+
+msgctxt "app"
+msgid "Devices"
+msgstr "دستگاه ها"
+
+msgctxt "app"
+msgid "Disable"
+msgstr "غیرفعال"
+
+msgctxt "app"
+msgid "Disabled"
+msgstr "غیرفعال شده"
+
+msgctxt "app"
+msgid "Enable"
+msgstr "فعال"
+
+msgctxt "app"
+msgid "Error in updating admin information!"
+msgstr "خطا در بروز رسانی اطلاعات مدیر!"
+
+msgctxt "app"
+msgid "Error sent to website administrator for check the detail."
+msgstr "خطای مورد نظر برای بررسی به مدیریت ارسال شد."
+
+msgctxt "app"
+msgid "For activate use this code: {code}"
+msgstr "برای فعال سازی از این کد استفاده کنید: {code}"
+
+msgctxt "app"
+msgid "Game Center"
+msgstr "مرکز بازی"
+
+msgctxt "app"
+msgid "Gender"
+msgstr "جنسیت"
+
+msgctxt "app"
+msgid "Home"
+msgstr "صفحه اصلی"
+
+msgctxt "app"
+msgid "ID"
+msgstr "شماره شناسایی"
+
+msgctxt "app"
+msgid "IP"
+msgstr "IP"
+
+msgctxt "app"
+msgid "Image"
+msgstr "عکس"
+
+msgctxt "app"
+msgid "Incorrect old password."
+msgstr "رمز عبور فعلی صحیح نمی باشد."
+
+msgctxt "app"
+msgid "Incorrect username or password."
+msgstr "نام کاربری یا رمز عبور صحیح نمی باشد."
+
+msgctxt "app"
+msgid "Lastname"
+msgstr "نام خانوادگی"
+
+msgctxt "app"
+msgid "Level"
+msgstr "سطح"
+
+msgctxt "app"
+msgid "Log Manager"
+msgstr "مدیریت لاگ"
+
+msgctxt "app"
+msgid "Log Time"
+msgstr "زمان لاگ"
+
+msgctxt "app"
+msgid "Login"
+msgstr "ورود"
+
+msgctxt "app"
+msgid "Logout"
+msgstr "خروج"
+
+msgctxt "app"
+msgid "Logs"
+msgstr "تاریخچه خطاها"
+
+msgctxt "app"
+msgid "Maintenance"
+msgstr "مراقبت و نگهداری"
+
+msgctxt "app"
+msgid "Man"
+msgstr "مرد"
+
+msgctxt "app"
+msgid "Message"
+msgstr "پیام"
+
+msgctxt "app"
+msgid "Mobile"
+msgstr "موبایل"
+
+msgctxt "app"
+msgid "Mobile is not valid and must be with this format: 0936..."
+msgstr "موبایل صحیح نیست و باید بصورت 0936... باشد"
+
+msgctxt "app"
+msgid "More attempt to login!"
+msgstr "خطای تلاش زیاد برای ورود!"
+
+msgctxt "app"
+msgid "More attempt to register!"
+msgstr "خطای تلاش زیاد برای عضویت!"
+
+msgctxt "app"
+msgid "Name"
+msgstr "نام"
+
+msgctxt "app"
+msgid "No matching records found"
+msgstr "اطلاعاتی یافت نشد"
+
+msgctxt "app"
+msgid "Old Password"
+msgstr "رمز عبور فعلی"
+
+msgctxt "app"
+msgid "Password"
+msgstr "رمز عبور"
+
+msgctxt "app"
+msgid "Prefix"
+msgstr "پیشوند"
+
+msgctxt "app"
+msgid "Remember me"
+msgstr "مرا بخاطر بسپار"
+
+msgctxt "app"
+msgid "Security code"
+msgstr "کد امنیتی"
+
+msgctxt "app"
+msgid "Session ID"
+msgstr "شماره جلسه کاربری"
+
+msgctxt "app"
+msgid "Status"
+msgstr "وضعیت"
+
+msgctxt "app"
+msgid "Successfully deleted {count} item!"
+msgstr "تعداد {count} مورد نظر حذف شد!"
+
+msgctxt "app"
+msgid "Successfully deleted!"
+msgstr "با موفقیت حذف شد!"
+
+msgctxt "app"
+msgid "Successfully status changed!"
+msgstr "وضعیت با موفقیت تغییر یافت!"
+
+msgctxt "app"
+msgid "Successfully {count} item status changed!"
+msgstr "وضعیت {count} تعداد با موفقیت تغییر یافت!"
+
+msgctxt "app"
+msgid "Target"
+msgstr "هدف"
+
+msgctxt "app"
+msgid "The above error occurred while the Web server was processing your request."
+msgstr "خطای بالا زمانی رخ داد که سرور در خال پردازش درخواست شما بود."
+
+msgctxt "app"
+msgid "The requested page does not exist."
+msgstr "صفحه مورد نظر یافت نشد."
+
+msgctxt "app"
+msgid "Type"
+msgstr "نوع"
+
+msgctxt "app"
+msgid "Update"
+msgstr "بروزرسانی"
+
+msgctxt "app"
+msgid "Update information"
+msgstr "بروزرسانی اطلاعات"
+
+msgctxt "app"
+msgid "Update information {username}"
+msgstr "بروز رسانی اطلاعات {username}"
+
+msgctxt "app"
+msgid "Update user"
+msgstr "ویرایش کاربر"
+
+msgctxt "app"
+msgid "Upload new version"
+msgstr "ارسال ویرایش جدید"
+
+msgctxt "app"
+msgid "User"
+msgstr "کاربر"
+
+msgctxt "app"
+msgid "User Activity"
+msgstr "فعالیت کاربران"
+
+msgctxt "app"
+msgid "User Activity Manager"
+msgstr "مدیریت فعالیت کاربران"
+
+msgctxt "app"
+msgid "User ID"
+msgstr "کاربر"
+
+msgctxt "app"
+msgid "User List"
+msgstr "لیست کاربر"
+
+msgctxt "app"
+msgid "User Manager"
+msgstr "مدیریت کاربر"
+
+msgctxt "app"
+msgid "User successfuly updated."
+msgstr "کاربر با موفقیت ویرایش شد"
+
+msgctxt "app"
+msgid "User with this mobile number is not exist"
+msgstr "کاربر با این شماره موبایل وجود ندارد"
+
+msgctxt "app"
+msgid "Username"
+msgstr "نام کاربری"
+
+msgctxt "app"
+msgid "Users"
+msgstr "کاربران"
+
+msgctxt "app"
+msgid "Users Manager"
+msgstr "مدیریت کاربران"
+
+msgctxt "app"
+msgid "Video"
+msgstr "ویدیو"
+
+msgctxt "app"
+msgid "View"
+msgstr "مشاهده"
+
+msgctxt "app"
+msgid "Woman"
+msgstr "زن"
+
+msgctxt "app"
+msgid "You haven't enough permission to disable this admin!"
+msgstr "شما دسترسی لازم برای تغییر وضعیت این مدیر ندارید."
+
+msgctxt "app"
+msgid "Your password successfuly changed."
+msgstr "رمز عبور شما با موفقیت تغییر یافت."
+
